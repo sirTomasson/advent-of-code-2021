@@ -7,6 +7,7 @@
     <artifactId>advent-of-code-2021</artifactId>
     <modules>
         <module>day-01</module>
+        <module>day-02</module>
     </modules>
     <groupId>xyz.tomassen.aoc</groupId>
     <version>1.0-SNAPSHOT</version>
@@ -28,7 +29,7 @@
     </repositories>
 
     <build>
-        <sourceDirectory>day-01/src/main/kotlin</sourceDirectory>
+        <sourceDirectory>src/main/kotlin</sourceDirectory>
         <testSourceDirectory>src/test/kotlin</testSourceDirectory>
         <plugins>
             <plugin>
