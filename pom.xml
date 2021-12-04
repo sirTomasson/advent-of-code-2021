@@ -8,6 +8,7 @@
     <modules>
         <module>day-01</module>
         <module>day-02</module>
+        <module>day-03</module>
     </modules>
     <groupId>xyz.tomassen.aoc</groupId>
     <version>1.0-SNAPSHOT</version>
